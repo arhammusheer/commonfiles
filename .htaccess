@@ -1,6 +1,6 @@
 Options -Indexes
 ErrorDocument 400 https://commonfiles.ml/default-pages/error400
-ErrorDocument 401  https://commonfiles.ml/default-pages/error401
+ErrorDocument 401 https://commonfiles.ml/default-pages/error401
 ErrorDocument 403 https://commonfiles.ml/default-pages/error403
 ErrorDocument 404 https://commonfiles.ml/default-pages/error404
 ErrorDocument 500 https://commonfiles.ml/default-pages/error500
